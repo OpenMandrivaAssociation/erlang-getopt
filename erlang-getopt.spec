@@ -10,7 +10,7 @@ Release:	1
 Summary:	Erlang module to parse command line arguments using the GNU getopt syntax
 Group:		Development/Erlang
 License:	BSD
-URL:		http://github.com/%{upstream}/%{realname}
+URL:		https://github.com/%{upstream}/%{realname}
 Source0:	https://github.com/%{upstream}/%{realname}/archive/v%{version}/%{realname}-%{version}.tar.gz
 Patch1:		getopt-0001-Fix-edoc-compilation.patch
 BuildRequires:	erlang-rebar
